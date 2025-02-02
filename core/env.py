@@ -4,7 +4,8 @@ def check_env() -> dict:
     check_list = {
         "result": False,
         "directories": {
-            ".temp": False
+            ".temp": False,
+            "projects": False
             },
         }
 
